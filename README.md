@@ -37,6 +37,4 @@ The recorded video is saved, emailed, and subsequently deleted to manage storage
 Email Configuration
 To ensure successful email notifications, the system is set up with SMTP configurations. Users must enter their own email address and app password to facilitate secure communication.
 
-Important Note: When using Gmail, it's recommended to create an App Password for your account, especially if two-factor authentication is enabled.
 
-Usage Example
